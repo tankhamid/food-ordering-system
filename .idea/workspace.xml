@@ -26,6 +26,9 @@
     <expand />
     <select />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1rTdtbY69vL3XiCTxAtJSLO1Kkj" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -78,14 +81,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="527" y="338" key="NewPhpFileDialog" timestamp="1620736574674">
+    <state x="406" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1630328349376">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="527" y="338" key="NewPhpFileDialog/0.0.1366.768@0.0.1366.768" timestamp="1620736574674" />
-    <state x="406" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1629287837332">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="406" y="198" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1629287837332" />
+    <state x="406" y="198" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1630328349376" />
     <state x="581" y="86" width="697" height="775" key="dock-window-1" timestamp="1624875225680">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
